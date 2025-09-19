@@ -6,7 +6,7 @@
 
 | Part | Description | Colab Link | Assigned To | Completed By | Date Completed | Validated By | Comments |
 |------|-------------|------------|-------------|--------------|----------------|--------------|----------|
-| 1–2 | Data preparation & return calculation; Portfolio optimization (β=0.95, in/out-of-sample) | [parts_1_2.ipynb](https://colab.research.google.com/github/AHMerrill/optimization_1/blob/main/parts_1_2.ipynb) | Darius | Darius | 2025-09-19 | | Completed jointly |
+| 1–2 | Data preparation & return calculation; Portfolio optimization (β=0.95, in/out-of-sample) | [parts_1_2.ipynb](https://colab.research.google.com/github/AHMerrill/optimization_1/blob/main/parts_1_2.ipynb) | Darius | Darius | 2025-09-19 | | Completed |
 | 3 | Sensitivity analysis for β = 0.90, 0.95, 0.99 | [part_3.ipynb](https://colab.research.google.com/github/AHMerrill/optimization_1/blob/main/part_3.ipynb) | | | | | |
 | 4 | Conservative min–max monthly CVaR (2019) | [part_4.ipynb](https://colab.research.google.com/github/AHMerrill/optimization_1/blob/main/part_4.ipynb) | | | | | |
 | 5 | Monthly re-optimization (2020 rolling windows) | [part_5.ipynb](https://colab.research.google.com/github/AHMerrill/optimization_1/blob/main/part_5.ipynb) | | | | | |
