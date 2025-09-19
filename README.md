@@ -1,5 +1,7 @@
 # Portfolio Optimization with CVaR (Linear Programming)
 
+## When you make changes in colab, there should be a button at the top of the page to re-save to github
+
 ## Project Status Table
 
 | Part | Description | Colab Link | Assigned To | Completed By | Date Completed | Validated By | Comments |
