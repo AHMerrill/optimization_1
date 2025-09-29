@@ -10,6 +10,6 @@
 | 3 | Sensitivity analysis for β = 0.90, 0.95, 0.99 | [part_3.ipynb](https://colab.research.google.com/github/AHMerrill/optimization_1/blob/main/part_3.ipynb) |Archie |Archie | | | |
 | 4 | Conservative min–max monthly CVaR (2019) | [part_4.ipynb](https://colab.research.google.com/github/AHMerrill/optimization_1/blob/main/part_4.ipynb) |Archie | Archie| | | |
 | 5-6 | Monthly re-optimization (2020 rolling windows) | [parts_5_6.ipynb](https://colab.research.google.com/github/AHMerrill/optimization_1/blob/main/parts_5_6.ipynb) |Zan |Zan |2025-09-24 | | |
-| 7 | Final report assembly (PDF with graphs & recommendations) | [part_7.ipynb](https://colab.research.google.com/github/AHMerrill/optimization_1/blob/main/part_7.ipynb) |Rizvee |Rizvee | | | |
+| 7 | Final report assembly (PDF with graphs & recommendations) | [part_7.pdf](https://docs.google.com/document/d/18PP6K5713-e8GdTNQ5hSFdRfCj8lkNi37djaLebtM2w/edit?usp=sharing) |Rizvee |Rizvee | | | |
 | Combined | End-to-end workflow notebook | [combined_submission.ipynb](https://colab.research.google.com/github/AHMerrill/optimization_1/blob/main/combined_submission.ipynb) |Rizvee | Rizvee| | | Master notebook to tie everything together |
 
